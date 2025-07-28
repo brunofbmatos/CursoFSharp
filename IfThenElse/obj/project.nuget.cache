@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AaE3UcnJD28=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\GitHub\\CursoFSharp\\IfThenElse\\IfThenElse.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\fsharp.core\\9.0.300\\fsharp.core.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
